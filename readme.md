@@ -37,8 +37,8 @@ This project is inspired by the real-world application of AI in the Indian Defen
 To get started with the development of this project, clone the repository and follow the instructions in the setup guide.
 
 ```
-git clone https://github.com/yourusername/mandarin-translator.git
-cd mandarin-translator
+git clone https://github.com/oliveberch/mandarin_proj.git
+cd mandarin_proj
 ```
 
 ## License
