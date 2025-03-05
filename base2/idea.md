@@ -14,3 +14,8 @@
 4. **Audio Output**:
    - Use the `gtts` library to convert translated text to speech.
    - Ensure the output audio quality is clear and understandable.
+
+## Observation:
+
+- the audio input is segmented for a short duration
+- the processing time to translate is high
